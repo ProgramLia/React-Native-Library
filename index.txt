@@ -1,0 +1,6 @@
+List library yang saya anggap penting untuk belajar React-Native
+1.react-native-vector-icon (untuk dapat menggunakan icon)
+2.react-native-asset (digunakan jika ingin menggunakan font (selain yang default))
+3.react-native-linear-gradient (untuk menggunakan gradasi warna)
+4.react-navigation (untuk pindah screen atau halaman)
+5.arabis-digits (untuk mengubah angka jadi bahasa arab (cocok buat aplikasi tekait agama))
