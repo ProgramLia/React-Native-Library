@@ -5,3 +5,4 @@ List library yang saya anggap penting untuk belajar React-Native
 4.react-navigation (untuk pindah screen atau halaman)
 5.arabis-digits (untuk mengubah angka jadi bahasa arab (cocok buat aplikasi tekait agama))
 6.react-native-system-navigation-bar (buat ubah bagian bawah hp semacam status bar tapi yang bawah)
+7.react-native-dropdown-picker (untuk memakai dropdown)
